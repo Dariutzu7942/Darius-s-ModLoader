@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = DML.Core
+build_property.ProjectDir = /workspaces/Darius-s-ModLoader/DML.Core/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

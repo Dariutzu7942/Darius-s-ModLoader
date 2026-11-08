@@ -1,0 +1,10 @@
+/workspaces/Darius-s-ModLoader/DML.Core/bin/Release/DML.Core.dll
+/workspaces/Darius-s-ModLoader/DML.Core/bin/Release/DML.Core.pdb
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.csproj.AssemblyReference.cache
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.AssemblyInfoInputs.cache
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.AssemblyInfo.cs
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.csproj.CoreCompileInputs.cache
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.sourcelink.json
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.dll
+/workspaces/Darius-s-ModLoader/DML.Core/obj/Release/DML.Core.pdb

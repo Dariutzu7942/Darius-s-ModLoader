@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1INr80mL+Y=",
+  "success": true,
+  "projectFilePath": "/workspaces/Darius-s-ModLoader/DML.Core/DML.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
